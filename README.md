@@ -1,4 +1,4 @@
-# Webapp-database-project
+# Flight-Booker-Site
 Flight service database web service 
 Written in Html, java, javascript
 -Hosted on AWS
